@@ -1,12 +1,12 @@
 # Aboobaida Alrasheid
 
-**Founder & CEO of [Sudatrack](https://sudatrack.com)** — a Sudanese logistics technology platform connecting customers in Qatar and Saudi Arabia with shipping companies serving Sudan.
+**Founder & CEO of [Sudatrack](https://sudatrack.com)** — a Sudanese logistics technology platform connecting Sudanese customers in the Gulf with shipping companies serving Sudan.
 
 Operations & administrative executive based in Doha, Qatar. Two decades across operations management, international procurement and sourcing (eight years on the ground in China), business formation in Sudan and the UAE, and building the digital systems that make operations run.
 
 ## Sudatrack
 
-Founded 21 April 2014 · Live on the **Qatar → Sudan** and **Saudi Arabia → Sudan** corridors · 1,600+ shipments delivered · 35+ delivery cities in Sudan.
+Founded 21 April 2014 · Live on the **Qatar → Sudan** corridor (Saudi Arabia → Sudan and other Gulf corridors in preparation) · 1,768 shipments delivered and 78 delivery cities in Sudan (November 2026).
 
 - **Customers:** request a shipment in an Arabic-first app, see a per-item estimated cost before confirming, arrange pickup or drop-off, and track every stage with a 10-digit tracking number.
 - **Shipping companies:** trips, manifests, couriers and warehouses with role-based access, collections and settlements, GPS truck tracking, SMS notifications.
@@ -17,6 +17,6 @@ Founded 21 April 2014 · Live on the **Qatar → Sudan** and **Saudi Arabia → 
 ## Links
 
 - Website: [aboobaida.net](https://aboobaida.net)
-- LinkedIn: [aboobaida-alrasheid](https://www.linkedin.com/in/aboobaida-alrasheid-39637b126)
+- LinkedIn: [aboobaida](https://www.linkedin.com/in/aboobaida)
 - Wikidata: [Q141738002](https://www.wikidata.org/wiki/Q141738002) (me) · [Q141737987](https://www.wikidata.org/wiki/Q141737987) (Sudatrack)
 - Email: me@aboobaida.net
